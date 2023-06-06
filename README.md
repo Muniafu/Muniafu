@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software Development
 - 💞️ I’m looking to collaborate on... 
-- 📫 How to reach me at elambaraka@2019@gmail.com
+- 📫 How to reach me at elambaraka2019@gmail.com
 
 <!---
 Muniafu/Muniafu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
