@@ -1,5 +1,7 @@
-## Hi there 👋
-I'm Muniafu!
+## Hi there 👋 I'm Muniafu!
+
+Basic Knowledge and Strong Technicall Skills
+
 
 Full-stack web developer ready to build websites and seamless applications that lead to the success of the overall product.
 
