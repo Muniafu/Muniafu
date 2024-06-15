@@ -1,6 +1,5 @@
-                                                       ## Hi there 👋 I'm Muniafu!
-
-                                                      Basic Knowledge and Strong Technicall Skills
+ <div align="center"> ## Hi there 👋 I'm Muniafu! </div>
+ <div align="center">Basic Knowledge and Strong Technicall Skills </div>
 
 I am a proficient full-stack web developer with strong technical skills. I am prepared to design websites and effective applications that significantly enhance the final product.
 
