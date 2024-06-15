@@ -1,6 +1,6 @@
-                                                        ## Hi there 👋 I'm Muniafu!
+                                                       ## Hi there 👋 I'm Muniafu!
 
-                                                                 Basic Knowledge and Strong Technicall Skills
+                                                      Basic Knowledge and Strong Technicall Skills
 
 I am a proficient full-stack web developer with strong technical skills. I am prepared to design websites and effective applications that significantly enhance the final product.
 
