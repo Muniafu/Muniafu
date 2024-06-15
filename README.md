@@ -1,10 +1,8 @@
-## Hi there 👋 I'm Muniafu!
+                                                        ## Hi there 👋 I'm Muniafu!
 
-Basic Knowledge and Strong Technicall Skills
+                                                                 Basic Knowledge and Strong Technicall Skills
 
-
-Full-stack web developer ready to build websites and seamless applications that lead to the success of the overall product.
-
+I am a proficient full-stack web developer with strong technical skills. I am prepared to design websites and effective applications that significantly enhance the final product.
 
 - ⚡ Fun fact: Problem Solving Improves Coding Skills
 -    Front- end Development Languages:  HTML, Javascript, React, Vue, Django, Dart
