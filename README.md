@@ -5,5 +5,6 @@ I am a proficient full-stack web developer with strong technical skills. I am pr
 
 - ⚡ Fun fact: Problem Solving Improves Coding Skills
 -    Front- end Development Languages:  HTML, Javascript, React, Vue, Django, Dart
--    Back-end Development Languages: PHP, Laravel, MongoDB
+-    Back-end Development Languages: PHP, Laravel
+-    Database: Mongoose ODM, MySql
 - 📫 How to reach me: elambaraka2019@gmail.com
