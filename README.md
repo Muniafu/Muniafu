@@ -51,7 +51,7 @@ I am currently learning and improving my skills in:
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elam-baraka-a09b5a1b8/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/this_is_muniafu)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:elambaraka2019@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elambaraka2019@gmail.com)
 
 ## 📈 GitHub Stats
 ![Muniafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muniafu&show_icons=true&theme=radical)
