@@ -49,9 +49,9 @@ I am currently learning and improving my skills in:
 - Database Management
 
 ## 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muniafu)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/muniafu)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muniafu@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elam-baraka-a09b5a1b8/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/this_is_muniafu)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muniafu@example.com)
 
 ## 📈 GitHub Stats
 ![Muniafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muniafu&show_icons=true&theme=radical)
